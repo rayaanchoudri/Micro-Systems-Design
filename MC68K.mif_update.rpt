@@ -1,0 +1,74 @@
+MIF/HEX Update report for MC68K
+Sat Jan 23 23:12:14 2016
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. MIF/HEX Update Summary
+  3. MIF/HEX Update Processed Files
+  4. MIF/HEX Update Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; MIF/HEX Update Summary                                        ;
++-----------------------+---------------------------------------+
+; MIF/HEX Update Status ; Successful - Sat Jan 23 23:12:14 2016 ;
+; Revision Name         ; MC68K                                 ;
+; Top-level Entity Name ; MC68K                                 ;
+; Family                ; Cyclone II                            ;
+; Device                ; EP2C35F672C6                          ;
++-----------------------+---------------------------------------+
+
+
++--------------------------------------------------------------------------------------------+
+; MIF/HEX Update Processed Files                                                             ;
++--------------------------------------------------------------------------------------------+
+; File Name                                                                                  ;
++--------------------------------------------------------------------------------------------+
+; C:/M68kV6.0 - DE2 - 640by480 - For 465 students/Programs/M68kdebugmonitor_ASSN1_BY_TIM.mif ;
++--------------------------------------------------------------------------------------------+
+
+
++-------------------------+
+; MIF/HEX Update Messages ;
++-------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit MIF/HEX Update
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+    Info: Processing started: Sat Jan 23 23:12:11 2016
+Info: Command: quartus_cdb MC68K -c MC68K --update_mif
+Warning (113028): 907 out of 16384 addresses are uninitialized. The Quartus II software will initialize them to "0". There are 2 warnings found, and 2 warnings are reported.
+    Warning (113027): Addresses ranging from 96 to 511 are not initialized
+    Warning (113027): Addresses ranging from 15893 to 16383 are not initialized
+Info (39024): Processed the following Memory Initialization File(s)
+    Info (39025): Processed Memory Initialization File C:/M68kV6.0 - DE2 - 640by480 - For 465 students/Programs/M68kdebugmonitor_ASSN1_BY_TIM.mif
+Info: Quartus II 64-Bit MIF/HEX Update was successful. 0 errors, 3 warnings
+    Info: Peak virtual memory: 498 megabytes
+    Info: Processing ended: Sat Jan 23 23:12:14 2016
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:02
+
+

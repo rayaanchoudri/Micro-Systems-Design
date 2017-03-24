@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\M68kV6.0 - DE2 - 640by480 - For 465 students\simulation\modelsim
+vMC68K
+!i10b 1
+!s100 NKB109:RaZUAnO29]@HoG3
+I4;GbUe7Bn>kX<OaW[lUQ43
+VX1ffRZ>hkek24QUSg6H233
+Z1 dC:\M68kV6.0 - DE2 - 640by480 - For 465 students\simulation\modelsim
+w1454812246
+8MC68K.vo
+FMC68K.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1454813260.684000
+!s107 MC68K.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|MC68K.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+n@m@c68@k
